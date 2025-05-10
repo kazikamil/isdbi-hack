@@ -25,4 +25,4 @@ result = app.invoke({
 })
 
 print("-----------------------Validation-----------------------")
-print(result)
+print(result['compliance'])
